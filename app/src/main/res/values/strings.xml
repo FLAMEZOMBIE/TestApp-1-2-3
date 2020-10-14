@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test 1 2 3</string>
+    <string name="set_value">Klik Tombol Ini!</string>
+    <string name="hello_world">Hello Gunung!</string>
+</resources>
